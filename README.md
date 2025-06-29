@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himansa Minoli  |  Undergraduate in Applied Statistics</h1>
+<h1 align="center">Hi 👋, I'm Himansa Minoli </h1>
 <h3 align="center">Passionate about data science, statistical modeling, and machine learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hminoli&label=Profile%20views&color=0e75b6&style=flat" alt="hminoli" /> </p>
